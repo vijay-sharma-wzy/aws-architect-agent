@@ -1,0 +1,6 @@
+anthropic
+langchain-anthropic
+langgraph
+langchain-core
+diagrams
+python-dotenv
